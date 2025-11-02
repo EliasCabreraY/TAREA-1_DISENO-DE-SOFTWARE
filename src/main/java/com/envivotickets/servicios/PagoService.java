@@ -1,5 +1,5 @@
 
-package com.envivotickets.services;
+package com.envivotickets.servicios;
 
 import com.envivotickets.common.Enums.EstadoPago;
 import com.envivotickets.common.Money;
